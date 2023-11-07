@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-wheel-decide",
+	"name": "Wheel Decide",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "When you need a wheel to make decisions for you.",
+	"author": "strNophix",
+	"authorUrl": "https://git.cesium.pw/niku/",
+	"isDesktopOnly": false
+}
