@@ -1,8 +1,6 @@
 import { App, Editor, Modal, Plugin } from 'obsidian';
 
 export default class WheelDecide extends Plugin {
-	wheelOptions: string[];
-
 	async onload() {
 		this.addCommand({
 			id: 'create-decision-wheel',
